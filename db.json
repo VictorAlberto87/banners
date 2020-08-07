@@ -1,9 +1,9 @@
 {
     "course": {
         "video": {
-            "source": {
-                "fhd": "/storage/videos/video.webm"
-            }
+            "type" : "youtube",
+            "id" : "aZ_HKiTvK5c",
+            "source": null
         },
         "title": "Triunfa en equipo",
         "description": "Descubre las mejores maneras de hacer que tu equipo de trabajo funcione de una forma ideal y alcanzar sus objetivos grupales."
