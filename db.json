@@ -43,7 +43,7 @@
                         "title": "La Teoría conecta la platica",
                         "time": 10,
                         "url": null,
-                        "current": true,
+                        "current": false,
                         "checked": false
                     },
                     {
@@ -65,7 +65,7 @@
                         "title": "La Teoría conecta la platica",
                         "time": 10,
                         "url": null,
-                        "current": false,
+                        "current": true,
                         "checked": false
                     }
                 ]
