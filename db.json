@@ -55,7 +55,20 @@
                         "checked": false
                     }
                 ]
-
+            },
+            {
+                "id": 3,
+                "title": "Explora tu mente",
+                "lessons": [
+                    {
+                        "id": 1,
+                        "title": "La Teoría conecta la platica",
+                        "time": 10,
+                        "url": null,
+                        "current": true,
+                        "checked": false
+                    }
+                ]
             }
         ],
         "description": "<p>Trabajar en equipo es una de las metas iniciales de cualquier empresa, trabajo, proyecto o similares, hacer que cada pieza de tu grupo conecte y logren alcanzar la armonía laboral y junto con ello la eficacia al momento de realizar el trabajo es algo que en cualquier lugar se anhela.</p><p>En este curso descubrirás las mejores maneras de hacer que tu equipo de trabajo funcione de una forma ideal y alcanzar sus objetivos grupales, haciendo que tú y los demás miembros de tu equipo conecten de manera funcional, logre</p>",
@@ -70,3 +83,4 @@
         }
     }
 }
+  
