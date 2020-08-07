@@ -1,34 +1,75 @@
 {
-  "banners": [
-    {
-      "active_at": "2020-07-14 12:12:00",
-      "created_at": "2020-07-08 12:53:55",
-      "deleted_at": null,
-      "detail": {
-        "base_price": 0,
-        "extra_tag": null,
-        "group_datetime": "2020-07-21 18:00",
-        "group_image": "https://cdn.vmcsubastas.com/rp/Kia-Sorento-2013.png",
-        "group_link": "https://www.vmcsubastas.com/limautos.html",
-        "group_name": "Limautos ON (21/07/2020)",
-        "group_title": null,
-        "num_offers": 6,
-        "owner_logo": null,
-        "owner_name": "Limautos",
-        "preview_banner_image": "https://servicestorage.s3.amazonaws.com/services/banners/a4/a49db14e2d88e88abaa36cbafa1f60b6.png",
-        "publish_now": true,
-        "publish_undefined": true,
-        "type_offer": "Negociable",
-        "win_now": false
-      },
-      "group_id": 4437,
-      "id": 61,
-      "order": 1,
-      "owner_id": 207,
-      "show_until": null,
-      "state": "active",
-      "type": "negotiable",
-      "updated_at": "2020-07-14 12:12:52"
-    }
+  "data": [{
+                    course: {
+                        video: {
+                            source: {
+                                fhd: '/storage/videos/video.webm'
+                            }
+                        },
+                        title: 'Triunfa en equipo',
+                        description: 'Descubre las mejores maneras de hacer que tu equipo de trabajo funcione de una forma ideal y alcanzar sus objetivos grupales.'
+                    },
+                    aside: {
+                        student: 'Anthony Roca',
+                        syllabus: [
+                            {
+                                id: 1,
+                                title: 'Introducción',
+                                lessons: [
+                                    {
+                                        id: 1,
+                                        title: 'Sobre el curso',
+                                        time: 8,
+                                        url: '',
+                                        current: false,
+                                        checked: false
+                                    }
+                                ]
+                            },
+                            {
+                                id: 2,
+                                title: 'Conócete a ti mismo',
+                                lessons: [
+                                    {
+                                        id: 1,
+                                        title: 'Explora tu mente',
+                                        time: 12,
+                                        url: '',
+                                        current: false,
+                                        checked: true
+
+                                    },
+                                    {
+                                        id: 2,
+                                        title: 'La Teoría conecta la platica',
+                                        time: 10,
+                                        url: '',
+                                        current: true,
+                                        checked: false
+                                    },
+                                    {
+                                        id: 3,
+                                        title: 'Demuestra tus capacidades',
+                                        time: 9,
+                                        url: '',
+                                        current: false,
+                                        checked: false
+                                    }
+                                ]
+
+                            }
+                        ],
+                        description: `<p>Trabajar en equipo es una de las metas iniciales de cualquier empresa, trabajo, proyecto o similares, hacer que cada pieza de tu grupo conecte y logren alcanzar la armonía laboral y junto con ello la eficacia al momento de realizar el trabajo es algo que en cualquier lugar se anhela.</p><p>En este curso descubrirás las mejores maneras de hacer que tu equipo de trabajo funcione de una forma ideal y alcanzar sus objetivos grupales, haciendo que tú y los demás miembros de tu equipo conecten de manera funcional, logre</p>`,
+                        teacher: {
+                            avatar: '',
+                            name: 'Carmen María Pflucker',
+                            job: 'Psicóloga / Comunicadora Social',
+                        },
+                        rating: {
+                            status: 4.6,
+                            votes: 16
+                        },
+                    }
+                }
   ]
 }
