@@ -1,1 +1,105 @@
-{}
+{
+    "type" : "index",
+    "header" : {
+        "title" : null,
+        "logo" : null,
+        "acronym" : null,
+        "sales_count" : null,
+        "participants_count" : null,
+        "description" : null,
+        "rating": null,
+        "reviews" : null,
+        "icon" : null,
+        "offers_count": null
+    },
+    "groups": [
+        {
+            "header" : {
+                "title" : "Motored",
+                "type" : "live",
+                "date" : "Mie 25 Nov",
+                "time" : "Inicia 03:00 PM",
+                "offers_count" : 6,
+                "url" : "https://www.vmcsubastas.com/motored"
+            },
+            "cards" : [
+                {
+                    "id": 32360,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32360/s_5fadc29b3d768.jpg",
+                    "name" : "Iveco Veltrato 50C17",
+                    "model_year" : "2018",
+                    "mileage" : null,
+                    "base_price": 19990,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": 1604727020,
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32362,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32362/s_5fadbc6857755.jpg",
+                    "name" : "Iveco Veltrato 50C17",
+                    "model_year" : "2018",
+                    "mileage" : null,
+                    "base_price": 19990,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": 1604727020,
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32361,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32361/s_5fadbd3daba77.jpg",
+                    "name" : "Iveco Veltrato 50C17",
+                    "model_year" : "2018",
+                    "mileage" : null,
+                    "base_price": 19990,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": 1604727020,
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32363,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32363/s_5fadbb2c05956.jpg",
+                    "name" : "Iveco Veltrato 50C17",
+                    "model_year" : "2018",
+                    "mileage" : null,
+                    "base_price": 19990,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": 1604727020,
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                }
+            ]
+        }
+    ]
+}
