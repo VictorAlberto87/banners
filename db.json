@@ -1,17 +1,4 @@
 {
-    "type" : "index",
-    "header" : {
-        "title" : null,
-        "logo" : null,
-        "acronym" : null,
-        "sales_count" : null,
-        "participants_count" : null,
-        "description" : null,
-        "rating": null,
-        "reviews" : null,
-        "icon" : null,
-        "offers_count": null
-    },
     "groups": [
         {
             "header" : {
