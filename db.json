@@ -1,5 +1,18 @@
 {
-  "groups": [
+    "type" : "index",
+    "header" : {
+        "title" : null,
+        "logo" : null,
+        "acronym" : null,
+        "sales_count" : null,
+        "participants_count" : null,
+        "description" : null,
+        "rating": null,
+        "reviews" : null,
+        "icon" : null,
+        "offers_count": null
+    },
+    "groups": [
         {
             "header" : {
                 "title" : "Motored",
@@ -74,6 +87,182 @@
                     "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32363/s_5fadbb2c05956.jpg",
                     "name" : "Iveco Veltrato 50C17",
                     "model_year" : "2018",
+                    "mileage" : null,
+                    "base_price": 19990,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "Mapfre",
+                "type" : "live",
+                "date" : "Vie 20 Nov",
+                "time" : "Inicia 02:00 PM",
+                "offers_count" : 6,
+                "url" : "https://www.vmcsubastas.com/mapfre"
+            },
+            "cards" : [
+                {
+                    "id": 32381,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32381/s_5faec3acbfb73.jpg",
+                    "name" : "Suzuki Grand Nomade",
+                    "model_year" : "2009",
+                    "mileage" : null,
+                    "base_price": 1999,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32380,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32380/s_5faec23478da5.jpg",
+                    "name" : "Renault Logan",
+                    "model_year" : "2019",
+                    "mileage" : null,
+                    "base_price": 1499,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32349,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32349/s_5f7b8bff3bbd8.jpg",
+                    "name" : "MG 350",
+                    "model_year" : "2011",
+                    "mileage" : null,
+                    "base_price": 999,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32377,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32377/s_5faebeb05e2d9.JPG",
+                    "name" : "Fiat Palio Weekend",
+                    "model_year" : "2014",
+                    "mileage" : null,
+                    "base_price": 19990,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                }
+            ]
+        },
+        {
+            "header" : {
+                "title" : "Pacifico",
+                "type" : "live",
+                "date" : "Vie 20 Nov",
+                "time" : "Inicia 03:00 PM",
+                "offers_count" : 6,
+                "url" : "https://www.vmcsubastas.com/pacifico"
+            },
+            "cards" : [
+                {
+                    "id": 32403,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32403/s_5fb314ec24f8a.JPG",
+                    "name" : "Volkswagen Passat",
+                    "model_year" : "2008",
+                    "mileage" : null,
+                    "base_price": 1499,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32410,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32410/s_5fb312ba33114.JPG",
+                    "name" : "Peugeot Partner",
+                    "model_year" : "2017",
+                    "mileage" : null,
+                    "base_price": 1499,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32406,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32406/s_5fb314129a24a.JPG",
+                    "name" : "Mercedes Benz SPRINTER",
+                    "model_year" : "2019",
+                    "mileage" : null,
+                    "base_price": 6999,
+                    "user_type" : "guest",
+                    "live_tag" : null,
+                    "close_date": "1604727020",
+                    "stats": {
+                        "views": null,
+                        "negotiations": null,
+                        "interested": null,
+                        "participants": null
+                    }
+                },
+                {
+                    "id": 32411,
+                    "state" : "active",
+                    "offer_type" : "live",
+                    "image" : "https://www.vmcsubastas.com/stockpile/images/auction/32411/s_5fb3125fa7f8c.JPG",
+                    "name" : "Subaru XV",
+                    "model_year" : "2016",
                     "mileage" : null,
                     "base_price": 19990,
                     "user_type" : "guest",
