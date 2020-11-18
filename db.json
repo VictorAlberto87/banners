@@ -1,4 +1,5 @@
-{
+[
+    {
     "type" : "index",
     "header" : {
         "title" : null,
@@ -103,3 +104,4 @@
         }
     ]
 }
+]
